@@ -1,1 +1,1 @@
-Michael's Training Log for TryHackMe Projects
+# Welcome to Michael's Training Log for TryHackMe Projects
